@@ -198,15 +198,15 @@ fi
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${PODS_ROOT}/../.symlinks/flutter/ios/Flutter.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/flashlight/flashlight.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/hxFlashlight/hxFlashlight.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${PODS_ROOT}/../.symlinks/flutter/ios/Flutter.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/flashlight/flashlight.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/hxFlashlight/hxFlashlight.framework"
 fi
 if [[ "$CONFIGURATION" == "Profile" ]]; then
   install_framework "${PODS_ROOT}/../.symlinks/flutter/ios/Flutter.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/flashlight/flashlight.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/hxFlashlight/hxFlashlight.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

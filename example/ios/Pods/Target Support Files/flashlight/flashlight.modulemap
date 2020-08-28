@@ -1,6 +1,0 @@
-framework module flashlight {
-  umbrella header "flashlight-umbrella.h"
-
-  export *
-  module * { export * }
-}

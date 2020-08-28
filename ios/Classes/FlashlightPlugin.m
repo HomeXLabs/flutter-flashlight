@@ -1,5 +1,5 @@
 #import "FlashlightPlugin.h"
-#import <flashlight/flashlight-Swift.h>
+#import <hxFlashlight/hxFlashlight-Swift.h>
 
 @implementation FlashlightPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {

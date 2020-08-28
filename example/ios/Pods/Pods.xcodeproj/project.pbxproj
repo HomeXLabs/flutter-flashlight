@@ -19,33 +19,33 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		18FD97DE3291F5DC9F78F141E490A4A4 /* Pods-Runner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96BF45FBE2BC9AD7B2D7E56D01B5EE46 /* Pods-Runner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1E7373D70C2A8117CBA65F011330AD43 /* FlashlightPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B016695899575D7CAA227895E66908D /* FlashlightPlugin.m */; };
-		2FC8D1F165FAD67E3BAC1A11A761F9B6 /* FlashlightPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 310ACFCF461909098CEE7A3F0361980F /* FlashlightPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4E3D9F5B8BB0176D565164D52962BB55 /* flashlight-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3B7EA22FB42F253D1CAC9DAD1A5B1B47 /* flashlight-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9A04C76713EAC757996DA81A1FC99421 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		A7992859C78C8E8ACDC044368A2CD9F1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		F284C316910727B2770BC3357F6FD00B /* Pods-Runner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B3C932BD54DBB963102A89E0F9E3948 /* Pods-Runner-dummy.m */; };
-		FC1417B6FF08EAA6DA88FA40E0AB87E9 /* SwiftFlashlightPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F2989707FE1DE002930FEC0BE5E089 /* SwiftFlashlightPlugin.swift */; };
-		FDD894B603D155E06C57D877F9822590 /* flashlight-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 75D7686FA40462EF20B646A0E7575434 /* flashlight-dummy.m */; };
+		30E5957AD2D48765CBB15CC29FDEAB33 /* FlashlightPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = A915836650D1B20B818F21DB3FB0C0AA /* FlashlightPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		344552FBEBB8CC86B5F9E5D8E975EEEA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		3FC3193C2A8E0FC7EADC0508F0096742 /* Pods-Runner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96BF45FBE2BC9AD7B2D7E56D01B5EE46 /* Pods-Runner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		75B8815F712A88DC89FB46DB44E837D2 /* hxFlashlight-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DEB70492D4295CB98DE92148234F8B76 /* hxFlashlight-dummy.m */; };
+		C845196BCE660E3D61397ED2F75A2515 /* FlashlightPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 22AD7B7ABD19970B1FC780515F97DBCF /* FlashlightPlugin.m */; };
+		D21CC4610786DE1B5AAAA9BB6D345DD8 /* hxFlashlight-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C54D4F9AAC87ED7EFAA64BACB640324 /* hxFlashlight-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E050D15F8347CF0C0F0BE487BE26D827 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		E442F7EFCA3314C33F094EF37F94347E /* SwiftFlashlightPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3617E3A36507DBF34564BB3257CA682 /* SwiftFlashlightPlugin.swift */; };
+		F57DD70B3507E910F90BD7C994738567 /* Pods-Runner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B3C932BD54DBB963102A89E0F9E3948 /* Pods-Runner-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		16DEB10EA85FCBBDEF3FF0A093CEE9D3 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = DABAA88A0F7EE8EF637DF1981F131AEA;
-			remoteInfo = flashlight;
-		};
-		34CCC2354E9A6FB8C155B758E6BB5C9D /* PBXContainerItemProxy */ = {
+		8A90E8FD5861339C58B1AFFCDA68220E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
 			remoteInfo = Flutter;
 		};
-		5119EB19F77DC205F2313B8A28001D15 /* PBXContainerItemProxy */ = {
+		CB33B30D97A2CAD985853822EF438383 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0E3F166FC02597BFBDD5210024635972;
+			remoteInfo = hxFlashlight;
+		};
+		EA4707CF8F8AEC05302A595CB3EAACCF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -55,121 +55,176 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		17011AED6DCD43F30639236EC1099238 /* Flutter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.release.xcconfig; sourceTree = "<group>"; };
-		2575C0B1678BFF4CD70139EF4F8D5C3D /* flashlight.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = flashlight.modulemap; sourceTree = "<group>"; };
-		2B7BD59A0EDE9DE8B3EA7A94E9586E93 /* flashlight.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = flashlight.podspec; path = ../../../../../../ios/flashlight.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		310ACFCF461909098CEE7A3F0361980F /* FlashlightPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FlashlightPlugin.h; path = ../../../../../../../ios/Classes/FlashlightPlugin.h; sourceTree = "<group>"; };
+		04E650D820D2DB54B7D02CB672F6054E /* hxFlashlight-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "hxFlashlight-Info.plist"; sourceTree = "<group>"; };
+		22AD7B7ABD19970B1FC780515F97DBCF /* FlashlightPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FlashlightPlugin.m; path = ../../../../../../../ios/Classes/FlashlightPlugin.m; sourceTree = "<group>"; };
+		2C97FF6A97C3D127EE7B87C905BDF124 /* hxFlashlight.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = hxFlashlight.podspec; path = ../../../../../../ios/hxFlashlight.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2DB86A21F31B7A8F2B90AC16D368138E /* Flutter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Flutter.podspec; path = ../../../../../../../flutter/bin/cache/artifacts/engine/ios/Flutter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		317C26B9A7CEDD34ADE8F37FAAB7AC20 /* Pods-Runner-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Runner-frameworks.sh"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3B016695899575D7CAA227895E66908D /* FlashlightPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FlashlightPlugin.m; path = ../../../../../../../ios/Classes/FlashlightPlugin.m; sourceTree = "<group>"; };
-		3B7EA22FB42F253D1CAC9DAD1A5B1B47 /* flashlight-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "flashlight-umbrella.h"; sourceTree = "<group>"; };
-		41E1F54F0DD225F42EAAE40649336E9D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../../../../../../LICENSE; sourceTree = "<group>"; };
+		34E7E5E29C9D5A7CA0146F2CD5E22EB1 /* Flutter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Flutter.framework; path = ../../../../../../../flutter/bin/cache/artifacts/engine/ios/Flutter.framework; sourceTree = "<group>"; };
+		39A128942CFE8BCF3A50960430FD79A4 /* Flutter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.debug.xcconfig; sourceTree = "<group>"; };
 		51825CD8F0558EFA53D9510F0E5BFA16 /* Pods-Runner-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-Info.plist"; sourceTree = "<group>"; };
+		52B814B8AE483469D6C48F67D2DD102F /* hxFlashlight.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = hxFlashlight.release.xcconfig; sourceTree = "<group>"; };
 		669E8F25E1897672BDB80B7EB784DA24 /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Runner.framework; path = "Pods-Runner.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		75D7686FA40462EF20B646A0E7575434 /* flashlight-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "flashlight-dummy.m"; sourceTree = "<group>"; };
+		6C54D4F9AAC87ED7EFAA64BACB640324 /* hxFlashlight-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "hxFlashlight-umbrella.h"; sourceTree = "<group>"; };
 		7B3C932BD54DBB963102A89E0F9E3948 /* Pods-Runner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Runner-dummy.m"; sourceTree = "<group>"; };
+		7D7DA1C24FD1E5CFF5DC737244B48DE7 /* hxFlashlight-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "hxFlashlight-prefix.pch"; sourceTree = "<group>"; };
+		80503F013ACA760CF710A9D116D5892B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../../../../../../LICENSE; sourceTree = "<group>"; };
+		85F371F39F2EABF1D31B4FE6F0B219F9 /* hxFlashlight.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = hxFlashlight.debug.xcconfig; sourceTree = "<group>"; };
+		906D80B3F558592F7B9B414ECDC11780 /* Flutter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.release.xcconfig; sourceTree = "<group>"; };
 		96BF45FBE2BC9AD7B2D7E56D01B5EE46 /* Pods-Runner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Runner-umbrella.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F79F8269DC34AC56BB3D1D9652C0D86 /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
-		A0B7AF5F7BE0996ADE4039BCD20EB671 /* flashlight.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = flashlight.framework; path = flashlight.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8D95F16138DC494628493E09B3033A5 /* flashlight-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "flashlight-Info.plist"; sourceTree = "<group>"; };
-		ABA2B8EE446BCE5E943573B203BE401C /* flashlight-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "flashlight-prefix.pch"; sourceTree = "<group>"; };
-		B45F86C44BBCC51C20825F96147A256D /* Flutter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Flutter.podspec; path = ../../../../../../../flutter/bin/cache/artifacts/engine/ios/Flutter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		C020988BF040E7A70336461DDD41B4F7 /* Flutter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Flutter.framework; path = ../../../../../../../flutter/bin/cache/artifacts/engine/ios/Flutter.framework; sourceTree = "<group>"; };
+		A2D68035F10D9E8CCA934F7C1333F04E /* hxFlashlight.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = hxFlashlight.framework; path = hxFlashlight.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A915836650D1B20B818F21DB3FB0C0AA /* FlashlightPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FlashlightPlugin.h; path = ../../../../../../../ios/Classes/FlashlightPlugin.h; sourceTree = "<group>"; };
+		C3617E3A36507DBF34564BB3257CA682 /* SwiftFlashlightPlugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftFlashlightPlugin.swift; path = ../../../../../../../ios/Classes/SwiftFlashlightPlugin.swift; sourceTree = "<group>"; };
 		C6EA98402A94995D022D330B64B5203D /* Pods-Runner-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Runner-acknowledgements.markdown"; sourceTree = "<group>"; };
 		CDAECCF4B5E08124ED410F09FD5A5DF9 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 		D2FA70CA298C392CB8332ADEEDD1CE85 /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
-		D90966329F4540B20AFFC30790C80DB4 /* flashlight.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = flashlight.release.xcconfig; sourceTree = "<group>"; };
+		D678E72243C569FE373E0AEB816966B3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../../../../../../../flutter/bin/cache/artifacts/engine/ios/LICENSE; sourceTree = "<group>"; };
 		D9F2B4CB813B4BDC4D164C6E0868930A /* Pods-Runner-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-acknowledgements.plist"; sourceTree = "<group>"; };
-		DB89FD9539B1A63C6B7162CA00DE3DEB /* Flutter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.debug.xcconfig; sourceTree = "<group>"; };
-		F0F2989707FE1DE002930FEC0BE5E089 /* SwiftFlashlightPlugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftFlashlightPlugin.swift; path = ../../../../../../../ios/Classes/SwiftFlashlightPlugin.swift; sourceTree = "<group>"; };
+		DEB70492D4295CB98DE92148234F8B76 /* hxFlashlight-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "hxFlashlight-dummy.m"; sourceTree = "<group>"; };
+		E42AA2C7F2F588B793F6ED2963CA73AA /* hxFlashlight.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = hxFlashlight.modulemap; sourceTree = "<group>"; };
 		F49C32B3B8CF59AB437BFD7314674868 /* Pods-Runner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Runner.modulemap"; sourceTree = "<group>"; };
-		F7F04B7B6DEE3F6928C220A5797B4CF3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../../../../../../../flutter/bin/cache/artifacts/engine/ios/LICENSE; sourceTree = "<group>"; };
-		F82BF05FDF11BE9EF37F267312058598 /* flashlight.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = flashlight.debug.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		083B0ED05B747131BD19AC71266626A5 /* Frameworks */ = {
+		46D76AE232E71DBB5D2E287A7B748974 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A04C76713EAC757996DA81A1FC99421 /* Foundation.framework in Frameworks */,
+				344552FBEBB8CC86B5F9E5D8E975EEEA /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DF8B760339A665718EFBF519749C76C6 /* Frameworks */ = {
+		B0ADDB579F4EAD3FBB13CB9EB18AA741 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7992859C78C8E8ACDC044368A2CD9F1 /* Foundation.framework in Frameworks */,
+				E050D15F8347CF0C0F0BE487BE26D827 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0FAC2DB7A2A3B4A51E92D65D73B8F266 /* ios */ = {
+		0C4F1E997BE2326932D11CEFC14CD622 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E1A584920EE3DA8420B775E0E901E05A /* Classes */,
+				A2D68035F10D9E8CCA934F7C1333F04E /* hxFlashlight.framework */,
+				669E8F25E1897672BDB80B7EB784DA24 /* Pods_Runner.framework */,
 			);
-			name = ios;
-			path = ios;
+			name = Products;
 			sourceTree = "<group>";
 		};
-		1EAB7D37596F21230794CBAEC32022ED /* Support Files */ = {
+		0DF4C3C558F6C0CFD5DFDF40CE5F4B17 /* Flutter */ = {
 			isa = PBXGroup;
 			children = (
-				DB89FD9539B1A63C6B7162CA00DE3DEB /* Flutter.debug.xcconfig */,
-				17011AED6DCD43F30639236EC1099238 /* Flutter.release.xcconfig */,
+				D8929CA963EC80389332C8E17934690E /* Frameworks */,
+				7569D1B16F4A0A1B2CD489A9254B2C08 /* Pod */,
+				174EA4EE9C8F7AED9C7D9230F14D2EFE /* Support Files */,
+			);
+			name = Flutter;
+			path = ../.symlinks/flutter/ios;
+			sourceTree = "<group>";
+		};
+		145E4C5FB132EE880F7616578A5E416A /* .symlinks */ = {
+			isa = PBXGroup;
+			children = (
+				178A9CD3DD90E38A3AC5CEAF39D23F2E /* plugins */,
+			);
+			name = .symlinks;
+			path = .symlinks;
+			sourceTree = "<group>";
+		};
+		174EA4EE9C8F7AED9C7D9230F14D2EFE /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				39A128942CFE8BCF3A50960430FD79A4 /* Flutter.debug.xcconfig */,
+				906D80B3F558592F7B9B414ECDC11780 /* Flutter.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../../../Pods/Target Support Files/Flutter";
 			sourceTree = "<group>";
 		};
-		28CC4B9B07EEAE03D7BE9346C714CD17 /* plugins */ = {
+		178A9CD3DD90E38A3AC5CEAF39D23F2E /* plugins */ = {
 			isa = PBXGroup;
 			children = (
-				A05B8B71792AD76EE4087592FC9082FE /* flashlight */,
+				3FBA083FC92C4FAF7209C2AFE0BEBD10 /* hxFlashlight */,
 			);
 			name = plugins;
 			path = plugins;
 			sourceTree = "<group>";
 		};
-		3AC551991579B58B38CEAC1D2C37CA75 /* Development Pods */ = {
+		37B805B4E4D66F2828482DA5C7733485 /* hxFlashlight */ = {
 			isa = PBXGroup;
 			children = (
-				FB1AD3C55799B1CE972299E27ADA07A3 /* flashlight */,
-				CCB034479A541B6C63486277C062D561 /* Flutter */,
+				59D8BF6D3BA72E189DDF967AC27D64F9 /* .. */,
+				CA1C21AC972618564EF15E384D39BB41 /* Pod */,
+				3BF12FC508942C57D1B8AFFC20FCB371 /* Support Files */,
 			);
-			name = "Development Pods";
+			name = hxFlashlight;
+			path = ../.symlinks/plugins/hxFlashlight/ios;
 			sourceTree = "<group>";
 		};
-		3EE77D470B407F79927A6DDA291B585E /* .. */ = {
+		3BF12FC508942C57D1B8AFFC20FCB371 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				E59BEA486820A686E7AFFC5B145939D3 /* .. */,
+				E42AA2C7F2F588B793F6ED2963CA73AA /* hxFlashlight.modulemap */,
+				DEB70492D4295CB98DE92148234F8B76 /* hxFlashlight-dummy.m */,
+				04E650D820D2DB54B7D02CB672F6054E /* hxFlashlight-Info.plist */,
+				7D7DA1C24FD1E5CFF5DC737244B48DE7 /* hxFlashlight-prefix.pch */,
+				6C54D4F9AAC87ED7EFAA64BACB640324 /* hxFlashlight-umbrella.h */,
+				85F371F39F2EABF1D31B4FE6F0B219F9 /* hxFlashlight.debug.xcconfig */,
+				52B814B8AE483469D6C48F67D2DD102F /* hxFlashlight.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../../../Pods/Target Support Files/hxFlashlight";
+			sourceTree = "<group>";
+		};
+		3C52F7BB0D922D1D92222FD574BF8787 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				7B114563BD1883681BE306C4389FBC6E /* Classes */,
+			);
+			name = ios;
+			path = ios;
+			sourceTree = "<group>";
+		};
+		3FBA083FC92C4FAF7209C2AFE0BEBD10 /* hxFlashlight */ = {
+			isa = PBXGroup;
+			children = (
+				3C52F7BB0D922D1D92222FD574BF8787 /* ios */,
+			);
+			name = hxFlashlight;
+			path = hxFlashlight;
+			sourceTree = "<group>";
+		};
+		5963203DB0E1F0BFC9B1015E4A77368E /* example */ = {
+			isa = PBXGroup;
+			children = (
+				E0439815F298A23629880933E0102193 /* ios */,
+			);
+			name = example;
+			path = example;
+			sourceTree = "<group>";
+		};
+		59D8BF6D3BA72E189DDF967AC27D64F9 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				C8783FB0B20DD0718481004B7172D559 /* .. */,
 			);
 			name = ..;
 			path = ../../../../../../ios;
 			sourceTree = "<group>";
 		};
-		48F9575D6C2896D603A2BE5D90F41712 /* Pod */ = {
+		7569D1B16F4A0A1B2CD489A9254B2C08 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				2B7BD59A0EDE9DE8B3EA7A94E9586E93 /* flashlight.podspec */,
-				41E1F54F0DD225F42EAAE40649336E9D /* LICENSE */,
+				2DB86A21F31B7A8F2B90AC16D368138E /* Flutter.podspec */,
+				D678E72243C569FE373E0AEB816966B3 /* LICENSE */,
 			);
 			name = Pod;
-			sourceTree = "<group>";
-		};
-		58EAD3151AEB80F2659E775CE449D8A3 /* example */ = {
-			isa = PBXGroup;
-			children = (
-				EC8548EFB04C3DF5AF31F707B5451B37 /* ios */,
-			);
-			name = example;
-			path = example;
 			sourceTree = "<group>";
 		};
 		791C6E4B424AF06279F8918FA67B8ED6 /* Targets Support Files */ = {
@@ -198,30 +253,15 @@
 			path = "Target Support Files/Pods-Runner";
 			sourceTree = "<group>";
 		};
-		A05B8B71792AD76EE4087592FC9082FE /* flashlight */ = {
+		7B114563BD1883681BE306C4389FBC6E /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				0FAC2DB7A2A3B4A51E92D65D73B8F266 /* ios */,
+				A915836650D1B20B818F21DB3FB0C0AA /* FlashlightPlugin.h */,
+				22AD7B7ABD19970B1FC780515F97DBCF /* FlashlightPlugin.m */,
+				C3617E3A36507DBF34564BB3257CA682 /* SwiftFlashlightPlugin.swift */,
 			);
-			name = flashlight;
-			path = flashlight;
-			sourceTree = "<group>";
-		};
-		AC50427354918C133EA4B9A5B5BBE57B /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				C020988BF040E7A70336461DDD41B4F7 /* Flutter.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		B26B32930DB66A76B4C92EC26A5A9C27 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				B45F86C44BBCC51C20825F96147A256D /* Flutter.podspec */,
-				F7F04B7B6DEE3F6928C220A5797B4CF3 /* LICENSE */,
-			);
-			name = Pod;
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
@@ -232,35 +272,42 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		CACE21EE8425DFCBD471F3A16E8862C9 /* Products */ = {
+		C8783FB0B20DD0718481004B7172D559 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				A0B7AF5F7BE0996ADE4039BCD20EB671 /* flashlight.framework */,
-				669E8F25E1897672BDB80B7EB784DA24 /* Pods_Runner.framework */,
+				5963203DB0E1F0BFC9B1015E4A77368E /* example */,
 			);
-			name = Products;
+			name = ..;
+			path = ..;
 			sourceTree = "<group>";
 		};
-		CCB034479A541B6C63486277C062D561 /* Flutter */ = {
+		CA1C21AC972618564EF15E384D39BB41 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				AC50427354918C133EA4B9A5B5BBE57B /* Frameworks */,
-				B26B32930DB66A76B4C92EC26A5A9C27 /* Pod */,
-				1EAB7D37596F21230794CBAEC32022ED /* Support Files */,
+				2C97FF6A97C3D127EE7B87C905BDF124 /* hxFlashlight.podspec */,
+				80503F013ACA760CF710A9D116D5892B /* LICENSE */,
 			);
-			name = Flutter;
-			path = ../.symlinks/flutter/ios;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				3AC551991579B58B38CEAC1D2C37CA75 /* Development Pods */,
+				D1D2D05BB75FE4E34F2F2F2A4120DBEF /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				CACE21EE8425DFCBD471F3A16E8862C9 /* Products */,
+				0C4F1E997BE2326932D11CEFC14CD622 /* Products */,
 				791C6E4B424AF06279F8918FA67B8ED6 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		D1D2D05BB75FE4E34F2F2F2A4120DBEF /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0DF4C3C558F6C0CFD5DFDF40CE5F4B17 /* Flutter */,
+				37B805B4E4D66F2828482DA5C7733485 /* hxFlashlight */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -271,130 +318,83 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E1A584920EE3DA8420B775E0E901E05A /* Classes */ = {
+		D8929CA963EC80389332C8E17934690E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				310ACFCF461909098CEE7A3F0361980F /* FlashlightPlugin.h */,
-				3B016695899575D7CAA227895E66908D /* FlashlightPlugin.m */,
-				F0F2989707FE1DE002930FEC0BE5E089 /* SwiftFlashlightPlugin.swift */,
+				34E7E5E29C9D5A7CA0146F2CD5E22EB1 /* Flutter.framework */,
 			);
-			name = Classes;
-			path = Classes;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E59BEA486820A686E7AFFC5B145939D3 /* .. */ = {
+		E0439815F298A23629880933E0102193 /* ios */ = {
 			isa = PBXGroup;
 			children = (
-				58EAD3151AEB80F2659E775CE449D8A3 /* example */,
-			);
-			name = ..;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		EC8548EFB04C3DF5AF31F707B5451B37 /* ios */ = {
-			isa = PBXGroup;
-			children = (
-				FC652400804F7ADB1E0FF76C8D600D68 /* .symlinks */,
+				145E4C5FB132EE880F7616578A5E416A /* .symlinks */,
 			);
 			name = ios;
 			path = ios;
 			sourceTree = "<group>";
 		};
-		F7FC8E2D9D488C2BBF2BE707631589DF /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				2575C0B1678BFF4CD70139EF4F8D5C3D /* flashlight.modulemap */,
-				75D7686FA40462EF20B646A0E7575434 /* flashlight-dummy.m */,
-				A8D95F16138DC494628493E09B3033A5 /* flashlight-Info.plist */,
-				ABA2B8EE446BCE5E943573B203BE401C /* flashlight-prefix.pch */,
-				3B7EA22FB42F253D1CAC9DAD1A5B1B47 /* flashlight-umbrella.h */,
-				F82BF05FDF11BE9EF37F267312058598 /* flashlight.debug.xcconfig */,
-				D90966329F4540B20AFFC30790C80DB4 /* flashlight.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../../../../Pods/Target Support Files/flashlight";
-			sourceTree = "<group>";
-		};
-		FB1AD3C55799B1CE972299E27ADA07A3 /* flashlight */ = {
-			isa = PBXGroup;
-			children = (
-				3EE77D470B407F79927A6DDA291B585E /* .. */,
-				48F9575D6C2896D603A2BE5D90F41712 /* Pod */,
-				F7FC8E2D9D488C2BBF2BE707631589DF /* Support Files */,
-			);
-			name = flashlight;
-			path = ../.symlinks/plugins/flashlight/ios;
-			sourceTree = "<group>";
-		};
-		FC652400804F7ADB1E0FF76C8D600D68 /* .symlinks */ = {
-			isa = PBXGroup;
-			children = (
-				28CC4B9B07EEAE03D7BE9346C714CD17 /* plugins */,
-			);
-			name = .symlinks;
-			path = .symlinks;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		98B063EB5F3E671C043B17B7438A6095 /* Headers */ = {
+		3E6C85FF7320A44CB517CEFBD3FFC7D8 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E3D9F5B8BB0176D565164D52962BB55 /* flashlight-umbrella.h in Headers */,
-				2FC8D1F165FAD67E3BAC1A11A761F9B6 /* FlashlightPlugin.h in Headers */,
+				3FC3193C2A8E0FC7EADC0508F0096742 /* Pods-Runner-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B65E11C3C78B06E651ACCB8466A57A35 /* Headers */ = {
+		B461E86B8FA2CADBF1FCCC3080D2191A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18FD97DE3291F5DC9F78F141E490A4A4 /* Pods-Runner-umbrella.h in Headers */,
+				30E5957AD2D48765CBB15CC29FDEAB33 /* FlashlightPlugin.h in Headers */,
+				D21CC4610786DE1B5AAAA9BB6D345DD8 /* hxFlashlight-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		8B74B458B450D74B75744B87BD747314 /* Pods-Runner */ = {
+		0E3F166FC02597BFBDD5210024635972 /* hxFlashlight */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B217A1E0F9E190ECC5D184A8784542A /* Build configuration list for PBXNativeTarget "Pods-Runner" */;
+			buildConfigurationList = D0BA3D6132A847348860FC535D154ECB /* Build configuration list for PBXNativeTarget "hxFlashlight" */;
 			buildPhases = (
-				B65E11C3C78B06E651ACCB8466A57A35 /* Headers */,
-				3E1D2F1141008C0AAFA71185746A44EA /* Sources */,
-				083B0ED05B747131BD19AC71266626A5 /* Frameworks */,
-				EBD3FA5FF18E5B146BB0C02E73ACA483 /* Resources */,
+				B461E86B8FA2CADBF1FCCC3080D2191A /* Headers */,
+				50F27FAF1CD1AAAB75700A1EE894B7BD /* Sources */,
+				B0ADDB579F4EAD3FBB13CB9EB18AA741 /* Frameworks */,
+				4C36FFC1DED71D3173EFFD2DA964C18B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F5C6BF814FB4B467865CF1299AD1805C /* PBXTargetDependency */,
-				C99B687092050B8275FBDDF92E5CDFBB /* PBXTargetDependency */,
+				2069ED689BC56DD6E0C47E61208D2851 /* PBXTargetDependency */,
+			);
+			name = hxFlashlight;
+			productName = hxFlashlight;
+			productReference = A2D68035F10D9E8CCA934F7C1333F04E /* hxFlashlight.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		8B74B458B450D74B75744B87BD747314 /* Pods-Runner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 22025F56774F95DCF13DB52C6E491743 /* Build configuration list for PBXNativeTarget "Pods-Runner" */;
+			buildPhases = (
+				3E6C85FF7320A44CB517CEFBD3FFC7D8 /* Headers */,
+				584918D24660E64139842655EFC8401A /* Sources */,
+				46D76AE232E71DBB5D2E287A7B748974 /* Frameworks */,
+				A53ABF5500EAFD0C46CA887DAA04BFF8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6E8C55A917ACCF0C2BAD3F16E63CFE15 /* PBXTargetDependency */,
+				01742773268CC3D8E31E17E970394727 /* PBXTargetDependency */,
 			);
 			name = "Pods-Runner";
 			productName = "Pods-Runner";
 			productReference = 669E8F25E1897672BDB80B7EB784DA24 /* Pods_Runner.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		DABAA88A0F7EE8EF637DF1981F131AEA /* flashlight */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 551F1C3B706FDDAB3D9597736C603C55 /* Build configuration list for PBXNativeTarget "flashlight" */;
-			buildPhases = (
-				98B063EB5F3E671C043B17B7438A6095 /* Headers */,
-				06968730D77A68E76C14986EC9664F70 /* Sources */,
-				DF8B760339A665718EFBF519749C76C6 /* Frameworks */,
-				56863F5A9AC86F30B86CB3663E9F72A8 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				C7FEC9C5E44CCCF618FE596FC6348D2A /* PBXTargetDependency */,
-			);
-			name = flashlight;
-			productName = flashlight;
-			productReference = A0B7AF5F7BE0996ADE4039BCD20EB671 /* flashlight.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -415,26 +415,26 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = CACE21EE8425DFCBD471F3A16E8862C9 /* Products */;
+			productRefGroup = 0C4F1E997BE2326932D11CEFC14CD622 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DABAA88A0F7EE8EF637DF1981F131AEA /* flashlight */,
 				1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */,
+				0E3F166FC02597BFBDD5210024635972 /* hxFlashlight */,
 				8B74B458B450D74B75744B87BD747314 /* Pods-Runner */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		56863F5A9AC86F30B86CB3663E9F72A8 /* Resources */ = {
+		4C36FFC1DED71D3173EFFD2DA964C18B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EBD3FA5FF18E5B146BB0C02E73ACA483 /* Resources */ = {
+		A53ABF5500EAFD0C46CA887DAA04BFF8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -444,51 +444,118 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		06968730D77A68E76C14986EC9664F70 /* Sources */ = {
+		50F27FAF1CD1AAAB75700A1EE894B7BD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FDD894B603D155E06C57D877F9822590 /* flashlight-dummy.m in Sources */,
-				1E7373D70C2A8117CBA65F011330AD43 /* FlashlightPlugin.m in Sources */,
-				FC1417B6FF08EAA6DA88FA40E0AB87E9 /* SwiftFlashlightPlugin.swift in Sources */,
+				C845196BCE660E3D61397ED2F75A2515 /* FlashlightPlugin.m in Sources */,
+				75B8815F712A88DC89FB46DB44E837D2 /* hxFlashlight-dummy.m in Sources */,
+				E442F7EFCA3314C33F094EF37F94347E /* SwiftFlashlightPlugin.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3E1D2F1141008C0AAFA71185746A44EA /* Sources */ = {
+		584918D24660E64139842655EFC8401A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F284C316910727B2770BC3357F6FD00B /* Pods-Runner-dummy.m in Sources */,
+				F57DD70B3507E910F90BD7C994738567 /* Pods-Runner-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		C7FEC9C5E44CCCF618FE596FC6348D2A /* PBXTargetDependency */ = {
+		01742773268CC3D8E31E17E970394727 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = hxFlashlight;
+			target = 0E3F166FC02597BFBDD5210024635972 /* hxFlashlight */;
+			targetProxy = CB33B30D97A2CAD985853822EF438383 /* PBXContainerItemProxy */;
+		};
+		2069ED689BC56DD6E0C47E61208D2851 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Flutter;
 			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = 34CCC2354E9A6FB8C155B758E6BB5C9D /* PBXContainerItemProxy */;
+			targetProxy = EA4707CF8F8AEC05302A595CB3EAACCF /* PBXContainerItemProxy */;
 		};
-		C99B687092050B8275FBDDF92E5CDFBB /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = flashlight;
-			target = DABAA88A0F7EE8EF637DF1981F131AEA /* flashlight */;
-			targetProxy = 16DEB10EA85FCBBDEF3FF0A093CEE9D3 /* PBXContainerItemProxy */;
-		};
-		F5C6BF814FB4B467865CF1299AD1805C /* PBXTargetDependency */ = {
+		6E8C55A917ACCF0C2BAD3F16E63CFE15 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Flutter;
 			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = 5119EB19F77DC205F2313B8A28001D15 /* PBXContainerItemProxy */;
+			targetProxy = 8A90E8FD5861339C58B1AFFCDA68220E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		00AF7CF3291E363D4F8E200EE2F3B953 /* Profile */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 52B814B8AE483469D6C48F67D2DD102F /* hxFlashlight.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_BITCODE = NO;
+				GCC_PREFIX_HEADER = "Target Support Files/hxFlashlight/hxFlashlight-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/hxFlashlight/hxFlashlight-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/hxFlashlight/hxFlashlight.modulemap";
+				PRODUCT_MODULE_NAME = hxFlashlight;
+				PRODUCT_NAME = hxFlashlight;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Profile;
+		};
+		09540D15C1B6DDA4EF4B9A5B5B4FD8FE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CDAECCF4B5E08124ED410F09FD5A5DF9 /* Pods-Runner.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = "Target Support Files/Pods-Runner/Pods-Runner-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Runner/Pods-Runner.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		352472D9C0BF916CA06CD66D7F3465A1 /* Profile */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 17011AED6DCD43F30639236EC1099238 /* Flutter.release.xcconfig */;
+			baseConfigurationReference = 906D80B3F558592F7B9B414ECDC11780 /* Flutter.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -501,165 +568,7 @@
 			};
 			name = Profile;
 		};
-		3C1954B628D456686FE176C110B805E4 /* Profile */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D90966329F4540B20AFFC30790C80DB4 /* flashlight.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = NO;
-				GCC_PREFIX_HEADER = "Target Support Files/flashlight/flashlight-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/flashlight/flashlight-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/flashlight/flashlight.modulemap";
-				PRODUCT_MODULE_NAME = flashlight;
-				PRODUCT_NAME = flashlight;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Profile;
-		};
-		4BE66A09A74FD25164AAB3C2645B9B93 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 5.0;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
-		565E7B2CF08D64B7EB46020BE306A44D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F82BF05FDF11BE9EF37F267312058598 /* flashlight.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = NO;
-				GCC_PREFIX_HEADER = "Target Support Files/flashlight/flashlight-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/flashlight/flashlight-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/flashlight/flashlight.modulemap";
-				PRODUCT_MODULE_NAME = flashlight;
-				PRODUCT_NAME = flashlight;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		68FBFE78D01B2A51E5C5FA388DB5DE64 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D90966329F4540B20AFFC30790C80DB4 /* flashlight.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = NO;
-				GCC_PREFIX_HEADER = "Target Support Files/flashlight/flashlight-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/flashlight/flashlight-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/flashlight/flashlight.modulemap";
-				PRODUCT_MODULE_NAME = flashlight;
-				PRODUCT_NAME = flashlight;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		6DB88287FBF0DDC642169D4FE56485F2 /* Profile */ = {
+		525D3B07A5A70795AD7B30DA43D5FCF7 /* Profile */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -707,7 +616,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -719,7 +628,134 @@
 			};
 			name = Profile;
 		};
-		7EF7227D9B20A1D549000096ACCB23D7 /* Debug */ = {
+		69DDC4064A53A5027408BC33883BCF35 /* Profile */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9F79F8269DC34AC56BB3D1D9652C0D86 /* Pods-Runner.profile.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = "Target Support Files/Pods-Runner/Pods-Runner-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Runner/Pods-Runner.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Profile;
+		};
+		8C910444931AAA1D933DB0007F150882 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 85F371F39F2EABF1D31B4FE6F0B219F9 /* hxFlashlight.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_BITCODE = NO;
+				GCC_PREFIX_HEADER = "Target Support Files/hxFlashlight/hxFlashlight-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/hxFlashlight/hxFlashlight-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/hxFlashlight/hxFlashlight.modulemap";
+				PRODUCT_MODULE_NAME = hxFlashlight;
+				PRODUCT_NAME = hxFlashlight;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		8F17DC3A99F99FBAD606CE6963886315 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		916E0404255105F480DC4950B7625F7A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -770,7 +806,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -785,7 +821,7 @@
 		};
 		A61138F34FDEA196B7E17C45338192EE /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 17011AED6DCD43F30639236EC1099238 /* Flutter.release.xcconfig */;
+			baseConfigurationReference = 906D80B3F558592F7B9B414ECDC11780 /* Flutter.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -798,90 +834,7 @@
 			};
 			name = Release;
 		};
-		D865F451DBED2657D8C1644047E1D987 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DB89FD9539B1A63C6B7162CA00DE3DEB /* Flutter.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				ENABLE_BITCODE = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		E261964672E2D974DEAFE98C8C96864F /* Profile */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9F79F8269DC34AC56BB3D1D9652C0D86 /* Pods-Runner.profile.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = "Target Support Files/Pods-Runner/Pods-Runner-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Runner/Pods-Runner.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Profile;
-		};
-		F07A0DB91322669121D45C6175EC7FBE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CDAECCF4B5E08124ED410F09FD5A5DF9 /* Pods-Runner.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = "Target Support Files/Pods-Runner/Pods-Runner-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Runner/Pods-Runner.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		FFEA2E21522FAF7FF71982815FC64E26 /* Release */ = {
+		D089B5B389E5ED0EAF63AEEDB91B2FDF /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D2FA70CA298C392CB8332ADEEDD1CE85 /* Pods-Runner.release.xcconfig */;
 			buildSettings = {
@@ -898,7 +851,7 @@
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "Target Support Files/Pods-Runner/Pods-Runner-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Runner/Pods-Runner.modulemap";
@@ -916,25 +869,72 @@
 			};
 			name = Release;
 		};
+		D865F451DBED2657D8C1644047E1D987 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 39A128942CFE8BCF3A50960430FD79A4 /* Flutter.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E7552E6B20B900536F235917DD739579 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 52B814B8AE483469D6C48F67D2DD102F /* hxFlashlight.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_BITCODE = NO;
+				GCC_PREFIX_HEADER = "Target Support Files/hxFlashlight/hxFlashlight-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/hxFlashlight/hxFlashlight-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/hxFlashlight/hxFlashlight.modulemap";
+				PRODUCT_MODULE_NAME = hxFlashlight;
+				PRODUCT_NAME = hxFlashlight;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+		22025F56774F95DCF13DB52C6E491743 /* Build configuration list for PBXNativeTarget "Pods-Runner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7EF7227D9B20A1D549000096ACCB23D7 /* Debug */,
-				6DB88287FBF0DDC642169D4FE56485F2 /* Profile */,
-				4BE66A09A74FD25164AAB3C2645B9B93 /* Release */,
+				09540D15C1B6DDA4EF4B9A5B5B4FD8FE /* Debug */,
+				69DDC4064A53A5027408BC33883BCF35 /* Profile */,
+				D089B5B389E5ED0EAF63AEEDB91B2FDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		551F1C3B706FDDAB3D9597736C603C55 /* Build configuration list for PBXNativeTarget "flashlight" */ = {
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				565E7B2CF08D64B7EB46020BE306A44D /* Debug */,
-				3C1954B628D456686FE176C110B805E4 /* Profile */,
-				68FBFE78D01B2A51E5C5FA388DB5DE64 /* Release */,
+				916E0404255105F480DC4950B7625F7A /* Debug */,
+				525D3B07A5A70795AD7B30DA43D5FCF7 /* Profile */,
+				8F17DC3A99F99FBAD606CE6963886315 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -949,12 +949,12 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B217A1E0F9E190ECC5D184A8784542A /* Build configuration list for PBXNativeTarget "Pods-Runner" */ = {
+		D0BA3D6132A847348860FC535D154ECB /* Build configuration list for PBXNativeTarget "hxFlashlight" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F07A0DB91322669121D45C6175EC7FBE /* Debug */,
-				E261964672E2D974DEAFE98C8C96864F /* Profile */,
-				FFEA2E21522FAF7FF71982815FC64E26 /* Release */,
+				8C910444931AAA1D933DB0007F150882 /* Debug */,
+				00AF7CF3291E363D4F8E200EE2F3B953 /* Profile */,
+				E7552E6B20B900536F235917DD739579 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
