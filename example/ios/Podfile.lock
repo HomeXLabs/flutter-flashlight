@@ -1,6 +1,6 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_flashlight (0.1.1):
+  - flutter_flashlight (1.0.0):
     - Flutter
 
 DEPENDENCIES:
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutter_flashlight: c64769ee21938edf32d95a30779be83c7167f9ae
+  flutter_flashlight: 17afef1f04adeaba9166a35b21619f3fb0c56cd8
 
 PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
 
