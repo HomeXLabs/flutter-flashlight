@@ -1,21 +1,21 @@
 PODS:
   - Flutter (1.0.0)
-  - hxFlashlight (0.1.1):
+  - flutter_flashlight (0.1.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `.symlinks/flutter/ios`)
-  - hxFlashlight (from `.symlinks/plugins/hxFlashlight/ios`)
+  - flutter_flashlight (from `.symlinks/plugins/flutter_flashlight/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: ".symlinks/flutter/ios"
-  hxFlashlight:
-    :path: ".symlinks/plugins/hxFlashlight/ios"
+  flutter_flashlight:
+    :path: ".symlinks/plugins/flutter_flashlight/ios"
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  hxFlashlight: 54b2ae8fee2201d9909b808530e7c7fbfe791c30
+  flutter_flashlight: c64769ee21938edf32d95a30779be83c7167f9ae
 
 PODFILE CHECKSUM: d231b65d6bea6d24555f84ca7901720538b5791f
 
