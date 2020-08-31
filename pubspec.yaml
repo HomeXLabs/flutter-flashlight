@@ -1,7 +1,6 @@
 name: flutter_flashlight
 description: A flutter plugin controlling the flash light.
 version: 1.0.0
-author: HomeX
 homepage: https://github.com/HomeXLabs/flutter-flashlight
 
 environment:
