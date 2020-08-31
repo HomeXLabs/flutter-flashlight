@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hxFlashlight/flashlight.dart';
+import 'package:flutter_flashlight/flashlight.dart';
 
 void main() => runApp(MyApp());
 
