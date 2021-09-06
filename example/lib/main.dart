@@ -9,7 +9,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  bool _hasFlashlight = false;
+  bool? _hasFlashlight = false;
 
   @override
   initState() {
@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   initFlashlight() async {
-    bool hasFlash = await Flashlight.hasFlashlight;
+    bool? hasFlash = await Flashlight.hasFlashlight;
     print("Device has flash ? $hasFlash");
     setState(() {
       _hasFlashlight = hasFlash;
@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
         body: Center(
             child: Column(
           children: <Widget>[
-            Text(_hasFlashlight
+            Text(_hasFlashlight!
                 ? 'Your phone has a Flashlight.'
                 : 'Your phone has no Flashlight.'),
             RaisedButton(
